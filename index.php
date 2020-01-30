@@ -175,6 +175,7 @@ include 'layouts/side&topbar.php';
           </div>
           <!--/.Card-->
 
+
         </div>
         <!--Grid column-->
 
@@ -199,6 +200,7 @@ include 'layouts/side&topbar.php';
                   </tr>
                 </thead>
                 <!-- Table head -->
+
 
                 <!-- Table body -->
                 <tbody>
@@ -256,7 +258,7 @@ include 'layouts/side&topbar.php';
             </div>
 
           </div>
-          <!--/.Card-->
+          <!--/Card-->
 
         </div>
         <!--Grid column-->
